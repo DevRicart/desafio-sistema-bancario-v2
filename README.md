@@ -2,8 +2,10 @@
 
 <p>
 Projeto feito para o desafio de código do bootcamp NTT DATA - Engenharia de Dados com Python, na DIO.  
-O principal foi feito seguindo todos os critérios pedidos, pesquisando outros projetos do mesmo desafio para garantir que funcionasse perfeitamente.  
-O particular foi feito utilizando dicionário no lugar de lista, para tentar resolver o mesmo desafio de um jeito que fosse mais lógico e diferente para mim.
+  
+O **principal** foi feito seguindo todos os critérios pedidos, pesquisando outros projetos do mesmo desafio para garantir que funcionasse perfeitamente.  
+
+O **particular** foi feito utilizando dicionário no lugar de lista, para tentar resolver o mesmo desafio de um jeito que fosse mais lógico e diferente para mim.
 </p>
 
 ## 🚀 Tecnologias
